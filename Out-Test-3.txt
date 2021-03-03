@@ -1,0 +1,585 @@
+Timp: 1s
+Timp: 2s
+Timp: 3s
+Timp: 4s
+Timp: 5s
+Timp: 6s
+Timp: 7s
+Timp: 8s
+Timp: 9s
+Timp: 10s
+Clientul numarul 38 a ajuns la timpul : 10s, si a fost servit in: 10s
+
+Timp: 11s
+Clientul numarul 62 a ajuns la timpul : 10s, si a fost servit in: 3s
+
+Timp: 12s
+Clientul numarul 84 a ajuns la timpul : 10s, si a fost servit in: 11s
+
+Timp: 13s
+Clientul numarul 95 a ajuns la timpul : 10s, si a fost servit in: 4s
+
+Timp: 14s
+Clientul numarul 136 a ajuns la timpul : 10s, si a fost servit in: 6s
+
+Timp: 15s
+Clientul numarul 406 a ajuns la timpul : 10s, si a fost servit in: 3s
+
+Timp: 16s
+Clientul numarul 578 a ajuns la timpul : 10s, si a fost servit in: 9s
+
+Timp: 17s
+Clientul numarul 753 a ajuns la timpul : 10s, si a fost servit in: 3s
+
+Timp: 18s
+Clientul numarul 757 a ajuns la timpul : 10s, si a fost servit in: 12s
+
+Timp: 19s
+Clientul numarul 880 a ajuns la timpul : 10s, si a fost servit in: 11s
+
+Timp: 20s
+Clientul numarul 882 a ajuns la timpul : 10s, si a fost servit in: 4s
+
+Timp: 21s
+Clientul numarul 888 a ajuns la timpul : 10s, si a fost servit in: 10s
+
+Timp: 22s
+Clientul numarul 6 a ajuns la timpul : 11s, si a fost servit in: 9s
+
+Timp: 23s
+Clientul numarul 178 a ajuns la timpul : 11s, si a fost servit in: 6s
+
+Timp: 24s
+Clientul numarul 189 a ajuns la timpul : 11s, si a fost servit in: 9s
+
+Timp: 25s
+Clientul numarul 193 a ajuns la timpul : 11s, si a fost servit in: 9s
+
+Timp: 26s
+Clientul numarul 220 a ajuns la timpul : 11s, si a fost servit in: 11s
+
+Timp: 27s
+Clientul numarul 234 a ajuns la timpul : 11s, si a fost servit in: 8s
+
+Timp: 28s
+Clientul numarul 355 a ajuns la timpul : 11s, si a fost servit in: 4s
+
+Timp: 29s
+Clientul numarul 581 a ajuns la timpul : 11s, si a fost servit in: 11s
+
+Timp: 30s
+Clientul numarul 760 a ajuns la timpul : 11s, si a fost servit in: 11s
+
+Timp: 31s
+Clientul numarul 765 a ajuns la timpul : 11s, si a fost servit in: 4s
+
+Timp: 32s
+Clientul numarul 783 a ajuns la timpul : 11s, si a fost servit in: 7s
+
+Timp: 33s
+Clientul numarul 844 a ajuns la timpul : 11s, si a fost servit in: 9s
+
+Timp: 34s
+Clientul numarul 947 a ajuns la timpul : 11s, si a fost servit in: 11s
+
+Timp: 35s
+Clientul numarul 972 a ajuns la timpul : 11s, si a fost servit in: 12s
+
+Timp: 36s
+Clientul numarul 301 a ajuns la timpul : 12s, si a fost servit in: 9s
+
+Timp: 37s
+Clientul numarul 358 a ajuns la timpul : 12s, si a fost servit in: 5s
+
+Timp: 38s
+Clientul numarul 387 a ajuns la timpul : 12s, si a fost servit in: 11s
+
+Timp: 39s
+Clientul numarul 388 a ajuns la timpul : 12s, si a fost servit in: 11s
+
+Timp: 40s
+Clientul numarul 404 a ajuns la timpul : 12s, si a fost servit in: 7s
+
+Timp: 41s
+Clientul numarul 405 a ajuns la timpul : 12s, si a fost servit in: 3s
+
+Timp: 42s
+Clientul numarul 610 a ajuns la timpul : 12s, si a fost servit in: 3s
+
+Timp: 43s
+Clientul numarul 677 a ajuns la timpul : 12s, si a fost servit in: 5s
+
+Timp: 44s
+Clientul numarul 692 a ajuns la timpul : 12s, si a fost servit in: 3s
+
+Timp: 45s
+Clientul numarul 819 a ajuns la timpul : 12s, si a fost servit in: 3s
+
+Timp: 46s
+Clientul numarul 833 a ajuns la timpul : 12s, si a fost servit in: 7s
+
+Timp: 47s
+Clientul numarul 852 a ajuns la timpul : 12s, si a fost servit in: 7s
+
+Timp: 48s
+Clientul numarul 974 a ajuns la timpul : 12s, si a fost servit in: 4s
+
+Timp: 49s
+Clientul numarul 58 a ajuns la timpul : 13s, si a fost servit in: 5s
+
+Timp: 50s
+Clientul numarul 74 a ajuns la timpul : 13s, si a fost servit in: 10s
+
+Timp: 51s
+Clientul numarul 153 a ajuns la timpul : 13s, si a fost servit in: 7s
+
+Timp: 52s
+Clientul numarul 155 a ajuns la timpul : 13s, si a fost servit in: 8s
+
+Timp: 53s
+Clientul numarul 204 a ajuns la timpul : 13s, si a fost servit in: 7s
+
+Timp: 54s
+Clientul numarul 297 a ajuns la timpul : 13s, si a fost servit in: 10s
+
+Timp: 55s
+Clientul numarul 311 a ajuns la timpul : 13s, si a fost servit in: 9s
+
+Timp: 56s
+Clientul numarul 652 a ajuns la timpul : 13s, si a fost servit in: 8s
+
+Timp: 57s
+Clientul numarul 701 a ajuns la timpul : 13s, si a fost servit in: 10s
+
+Timp: 58s
+Clientul numarul 779 a ajuns la timpul : 13s, si a fost servit in: 6s
+
+Timp: 59s
+Clientul numarul 789 a ajuns la timpul : 13s, si a fost servit in: 11s
+
+Timp: 60s
+Clientul numarul 835 a ajuns la timpul : 13s, si a fost servit in: 6s
+
+Timp: 61s
+Clientul numarul 943 a ajuns la timpul : 13s, si a fost servit in: 3s
+
+Timp: 62s
+Clientul numarul 91 a ajuns la timpul : 14s, si a fost servit in: 11s
+
+Timp: 63s
+Clientul numarul 128 a ajuns la timpul : 14s, si a fost servit in: 7s
+
+Timp: 64s
+Clientul numarul 161 a ajuns la timpul : 14s, si a fost servit in: 5s
+
+Timp: 65s
+Clientul numarul 594 a ajuns la timpul : 14s, si a fost servit in: 7s
+
+Timp: 66s
+Clientul numarul 684 a ajuns la timpul : 14s, si a fost servit in: 10s
+
+Timp: 67s
+Clientul numarul 754 a ajuns la timpul : 14s, si a fost servit in: 7s
+
+Timp: 68s
+Clientul numarul 984 a ajuns la timpul : 14s, si a fost servit in: 3s
+
+Timp: 69s
+Clientul numarul 3 a ajuns la timpul : 15s, si a fost servit in: 6s
+
+Timp: 70s
+Clientul numarul 133 a ajuns la timpul : 15s, si a fost servit in: 12s
+
+Timp: 71s
+Clientul numarul 374 a ajuns la timpul : 15s, si a fost servit in: 11s
+
+Timp: 72s
+Clientul numarul 702 a ajuns la timpul : 15s, si a fost servit in: 8s
+
+Timp: 73s
+Clientul numarul 722 a ajuns la timpul : 15s, si a fost servit in: 8s
+
+Timp: 74s
+Clientul numarul 759 a ajuns la timpul : 15s, si a fost servit in: 5s
+
+Timp: 75s
+Clientul numarul 830 a ajuns la timpul : 15s, si a fost servit in: 6s
+
+Timp: 76s
+Clientul numarul 876 a ajuns la timpul : 15s, si a fost servit in: 4s
+
+Timp: 77s
+Clientul numarul 896 a ajuns la timpul : 15s, si a fost servit in: 3s
+
+Timp: 78s
+Clientul numarul 978 a ajuns la timpul : 15s, si a fost servit in: 10s
+
+Timp: 79s
+Clientul numarul 33 a ajuns la timpul : 16s, si a fost servit in: 11s
+
+Timp: 80s
+Clientul numarul 429 a ajuns la timpul : 16s, si a fost servit in: 8s
+
+Timp: 81s
+Clientul numarul 506 a ajuns la timpul : 16s, si a fost servit in: 7s
+
+Timp: 82s
+Clientul numarul 510 a ajuns la timpul : 16s, si a fost servit in: 5s
+
+Timp: 83s
+Clientul numarul 658 a ajuns la timpul : 16s, si a fost servit in: 6s
+
+Timp: 84s
+Clientul numarul 698 a ajuns la timpul : 16s, si a fost servit in: 10s
+
+Timp: 85s
+Clientul numarul 755 a ajuns la timpul : 16s, si a fost servit in: 8s
+
+Timp: 86s
+Clientul numarul 756 a ajuns la timpul : 16s, si a fost servit in: 5s
+
+Timp: 87s
+Clientul numarul 800 a ajuns la timpul : 16s, si a fost servit in: 8s
+
+Timp: 88s
+Clientul numarul 809 a ajuns la timpul : 16s, si a fost servit in: 6s
+
+Timp: 89s
+Clientul numarul 919 a ajuns la timpul : 16s, si a fost servit in: 11s
+
+Timp: 90s
+Clientul numarul 932 a ajuns la timpul : 16s, si a fost servit in: 7s
+
+Timp: 91s
+Clientul numarul 458 a ajuns la timpul : 17s, si a fost servit in: 10s
+
+Timp: 92s
+Clientul numarul 866 a ajuns la timpul : 17s, si a fost servit in: 5s
+
+Timp: 93s
+Clientul numarul 953 a ajuns la timpul : 17s, si a fost servit in: 12s
+
+Timp: 94s
+Clientul numarul 56 a ajuns la timpul : 18s, si a fost servit in: 5s
+
+Timp: 95s
+Clientul numarul 73 a ajuns la timpul : 18s, si a fost servit in: 10s
+
+Timp: 96s
+Clientul numarul 173 a ajuns la timpul : 18s, si a fost servit in: 6s
+
+Timp: 97s
+Clientul numarul 246 a ajuns la timpul : 18s, si a fost servit in: 11s
+
+Timp: 98s
+Clientul numarul 348 a ajuns la timpul : 18s, si a fost servit in: 3s
+
+Timp: 99s
+Clientul numarul 704 a ajuns la timpul : 18s, si a fost servit in: 3s
+
+Timp: 100s
+Clientul numarul 707 a ajuns la timpul : 18s, si a fost servit in: 7s
+
+Timp: 101s
+Clientul numarul 728 a ajuns la timpul : 18s, si a fost servit in: 11s
+
+Timp: 102s
+Clientul numarul 942 a ajuns la timpul : 18s, si a fost servit in: 8s
+
+Timp: 103s
+Clientul numarul 956 a ajuns la timpul : 18s, si a fost servit in: 7s
+
+Timp: 104s
+Clientul numarul 11 a ajuns la timpul : 19s, si a fost servit in: 4s
+
+Timp: 105s
+Clientul numarul 478 a ajuns la timpul : 19s, si a fost servit in: 11s
+
+Timp: 106s
+Clientul numarul 486 a ajuns la timpul : 19s, si a fost servit in: 6s
+
+Timp: 107s
+Clientul numarul 551 a ajuns la timpul : 19s, si a fost servit in: 8s
+
+Timp: 108s
+Clientul numarul 671 a ajuns la timpul : 19s, si a fost servit in: 9s
+
+Timp: 109s
+Clientul numarul 767 a ajuns la timpul : 19s, si a fost servit in: 9s
+
+Timp: 110s
+Clientul numarul 814 a ajuns la timpul : 19s, si a fost servit in: 9s
+
+Timp: 111s
+Clientul numarul 954 a ajuns la timpul : 19s, si a fost servit in: 9s
+
+Timp: 112s
+Clientul numarul 102 a ajuns la timpul : 20s, si a fost servit in: 12s
+
+Timp: 113s
+Clientul numarul 124 a ajuns la timpul : 20s, si a fost servit in: 11s
+
+Timp: 114s
+Clientul numarul 142 a ajuns la timpul : 20s, si a fost servit in: 9s
+
+Timp: 115s
+Clientul numarul 177 a ajuns la timpul : 20s, si a fost servit in: 4s
+
+Timp: 116s
+Clientul numarul 196 a ajuns la timpul : 20s, si a fost servit in: 6s
+
+Timp: 117s
+Clientul numarul 302 a ajuns la timpul : 20s, si a fost servit in: 9s
+
+Timp: 118s
+Clientul numarul 322 a ajuns la timpul : 20s, si a fost servit in: 5s
+
+Timp: 119s
+Clientul numarul 359 a ajuns la timpul : 20s, si a fost servit in: 9s
+
+Timp: 120s
+Clientul numarul 402 a ajuns la timpul : 20s, si a fost servit in: 7s
+
+Timp: 121s
+Clientul numarul 516 a ajuns la timpul : 20s, si a fost servit in: 9s
+
+Timp: 122s
+Clientul numarul 530 a ajuns la timpul : 20s, si a fost servit in: 11s
+
+Timp: 123s
+Clientul numarul 625 a ajuns la timpul : 20s, si a fost servit in: 7s
+
+Timp: 124s
+Clientul numarul 694 a ajuns la timpul : 20s, si a fost servit in: 9s
+
+Timp: 125s
+Clientul numarul 700 a ajuns la timpul : 20s, si a fost servit in: 5s
+
+Timp: 126s
+Clientul numarul 980 a ajuns la timpul : 20s, si a fost servit in: 10s
+
+Timp: 127s
+Clientul numarul 18 a ajuns la timpul : 21s, si a fost servit in: 12s
+
+Timp: 128s
+Clientul numarul 98 a ajuns la timpul : 21s, si a fost servit in: 7s
+
+Timp: 129s
+Clientul numarul 398 a ajuns la timpul : 21s, si a fost servit in: 3s
+
+Timp: 130s
+Clientul numarul 430 a ajuns la timpul : 21s, si a fost servit in: 9s
+
+Timp: 131s
+Clientul numarul 449 a ajuns la timpul : 21s, si a fost servit in: 6s
+
+Timp: 132s
+Clientul numarul 466 a ajuns la timpul : 21s, si a fost servit in: 11s
+
+Timp: 133s
+Clientul numarul 553 a ajuns la timpul : 21s, si a fost servit in: 9s
+
+Timp: 134s
+Clientul numarul 608 a ajuns la timpul : 21s, si a fost servit in: 3s
+
+Timp: 135s
+Clientul numarul 678 a ajuns la timpul : 21s, si a fost servit in: 10s
+
+Timp: 136s
+Clientul numarul 795 a ajuns la timpul : 21s, si a fost servit in: 4s
+
+Timp: 137s
+Clientul numarul 116 a ajuns la timpul : 22s, si a fost servit in: 12s
+
+Timp: 138s
+Clientul numarul 150 a ajuns la timpul : 22s, si a fost servit in: 7s
+
+Timp: 139s
+Clientul numarul 603 a ajuns la timpul : 22s, si a fost servit in: 6s
+
+Timp: 140s
+Clientul numarul 952 a ajuns la timpul : 22s, si a fost servit in: 9s
+
+Timp: 141s
+Clientul numarul 960 a ajuns la timpul : 22s, si a fost servit in: 5s
+
+Timp: 142s
+Clientul numarul 983 a ajuns la timpul : 22s, si a fost servit in: 3s
+
+Timp: 143s
+Clientul numarul 82 a ajuns la timpul : 23s, si a fost servit in: 8s
+
+Timp: 144s
+Clientul numarul 250 a ajuns la timpul : 23s, si a fost servit in: 11s
+
+Timp: 145s
+Clientul numarul 315 a ajuns la timpul : 23s, si a fost servit in: 3s
+
+Timp: 146s
+Clientul numarul 440 a ajuns la timpul : 23s, si a fost servit in: 5s
+
+Timp: 147s
+Clientul numarul 875 a ajuns la timpul : 23s, si a fost servit in: 7s
+
+Timp: 148s
+Clientul numarul 901 a ajuns la timpul : 23s, si a fost servit in: 5s
+
+Timp: 149s
+Clientul numarul 39 a ajuns la timpul : 24s, si a fost servit in: 11s
+
+Timp: 150s
+Clientul numarul 183 a ajuns la timpul : 24s, si a fost servit in: 11s
+
+Timp: 151s
+Clientul numarul 241 a ajuns la timpul : 24s, si a fost servit in: 9s
+
+Timp: 152s
+Clientul numarul 268 a ajuns la timpul : 24s, si a fost servit in: 5s
+
+Timp: 153s
+Clientul numarul 349 a ajuns la timpul : 24s, si a fost servit in: 3s
+
+Timp: 154s
+Clientul numarul 363 a ajuns la timpul : 24s, si a fost servit in: 5s
+
+Timp: 155s
+Clientul numarul 413 a ajuns la timpul : 24s, si a fost servit in: 8s
+
+Timp: 156s
+Clientul numarul 464 a ajuns la timpul : 24s, si a fost servit in: 11s
+
+Timp: 157s
+Clientul numarul 579 a ajuns la timpul : 24s, si a fost servit in: 4s
+
+Timp: 158s
+Clientul numarul 636 a ajuns la timpul : 24s, si a fost servit in: 7s
+
+Timp: 159s
+Clientul numarul 693 a ajuns la timpul : 24s, si a fost servit in: 10s
+
+Timp: 160s
+Clientul numarul 730 a ajuns la timpul : 24s, si a fost servit in: 7s
+
+Timp: 161s
+Clientul numarul 735 a ajuns la timpul : 24s, si a fost servit in: 10s
+
+Timp: 162s
+Clientul numarul 808 a ajuns la timpul : 24s, si a fost servit in: 4s
+
+Timp: 163s
+Clientul numarul 824 a ajuns la timpul : 24s, si a fost servit in: 12s
+
+Timp: 164s
+Clientul numarul 548 a ajuns la timpul : 25s, si a fost servit in: 5s
+
+Timp: 165s
+Clientul numarul 598 a ajuns la timpul : 25s, si a fost servit in: 10s
+
+Timp: 166s
+Clientul numarul 613 a ajuns la timpul : 25s, si a fost servit in: 10s
+
+Timp: 167s
+Clientul numarul 945 a ajuns la timpul : 25s, si a fost servit in: 4s
+
+Timp: 168s
+Clientul numarul 950 a ajuns la timpul : 25s, si a fost servit in: 4s
+
+Timp: 169s
+Clientul numarul 100 a ajuns la timpul : 26s, si a fost servit in: 11s
+
+Timp: 170s
+Clientul numarul 114 a ajuns la timpul : 26s, si a fost servit in: 11s
+
+Timp: 171s
+Clientul numarul 168 a ajuns la timpul : 26s, si a fost servit in: 4s
+
+Timp: 172s
+Clientul numarul 222 a ajuns la timpul : 26s, si a fost servit in: 6s
+
+Timp: 173s
+Clientul numarul 279 a ajuns la timpul : 26s, si a fost servit in: 10s
+
+Timp: 174s
+Clientul numarul 289 a ajuns la timpul : 26s, si a fost servit in: 5s
+
+Timp: 175s
+Clientul numarul 299 a ajuns la timpul : 26s, si a fost servit in: 12s
+
+Timp: 176s
+Clientul numarul 384 a ajuns la timpul : 26s, si a fost servit in: 7s
+
+Timp: 177s
+Clientul numarul 511 a ajuns la timpul : 26s, si a fost servit in: 3s
+
+Timp: 178s
+Clientul numarul 746 a ajuns la timpul : 26s, si a fost servit in: 9s
+
+Timp: 179s
+Clientul numarul 772 a ajuns la timpul : 26s, si a fost servit in: 3s
+
+Timp: 180s
+Clientul numarul 855 a ajuns la timpul : 26s, si a fost servit in: 10s
+
+Timp: 181s
+Clientul numarul 42 a ajuns la timpul : 27s, si a fost servit in: 12s
+
+Timp: 182s
+Clientul numarul 57 a ajuns la timpul : 27s, si a fost servit in: 9s
+
+Timp: 183s
+Clientul numarul 63 a ajuns la timpul : 27s, si a fost servit in: 6s
+
+Timp: 184s
+Clientul numarul 65 a ajuns la timpul : 27s, si a fost servit in: 11s
+
+Timp: 185s
+Clientul numarul 147 a ajuns la timpul : 27s, si a fost servit in: 12s
+
+Timp: 186s
+Clientul numarul 175 a ajuns la timpul : 27s, si a fost servit in: 5s
+
+Timp: 187s
+Clientul numarul 593 a ajuns la timpul : 27s, si a fost servit in: 7s
+
+Timp: 188s
+Clientul numarul 645 a ajuns la timpul : 27s, si a fost servit in: 7s
+
+Timp: 189s
+Clientul numarul 851 a ajuns la timpul : 27s, si a fost servit in: 4s
+
+Timp: 190s
+Clientul numarul 97 a ajuns la timpul : 28s, si a fost servit in: 12s
+
+Timp: 191s
+Clientul numarul 243 a ajuns la timpul : 28s, si a fost servit in: 3s
+
+Timp: 192s
+Clientul numarul 350 a ajuns la timpul : 28s, si a fost servit in: 8s
+
+Timp: 193s
+Clientul numarul 484 a ajuns la timpul : 28s, si a fost servit in: 9s
+
+Timp: 194s
+Clientul numarul 509 a ajuns la timpul : 28s, si a fost servit in: 8s
+
+Timp: 195s
+Clientul numarul 827 a ajuns la timpul : 28s, si a fost servit in: 11s
+
+Timp: 196s
+Clientul numarul 139 a ajuns la timpul : 29s, si a fost servit in: 8s
+
+Timp: 197s
+Clientul numarul 207 a ajuns la timpul : 29s, si a fost servit in: 12s
+
+Timp: 198s
+Clientul numarul 332 a ajuns la timpul : 29s, si a fost servit in: 3s
+
+Timp: 199s
+Clientul numarul 341 a ajuns la timpul : 29s, si a fost servit in: 8s
+
+Timp: 200s
+Clientul numarul 373 a ajuns la timpul : 29s, si a fost servit in: 10s
+
+Timp: 201s
+Timpul de simulare a depasit limita.
+Timpul mediu de asteptare:17.947

@@ -1,0 +1,43 @@
+Timp: 0s
+Timp: 1s
+Timp: 2s
+Timp: 3s
+Timp: 4s
+Timp: 5s
+Timp: 6s
+Timp: 7s
+Timp: 8s
+Timp: 9s
+Timp: 10s
+Timp: 11s
+Timp: 12s
+Timp: 13s
+Timp: 14s
+Timp: 15s
+Timp: 16s
+Timp: 17s
+Timp: 18s
+Timp: 19s
+Timp: 20s
+Clientul numarul 0 a ajuns la timpul : 20s, si a fost servit in: 2s
+A ajuns la coada la timpul :20s
+Timp: 21s
+Clientul numarul 2 a ajuns la timpul : 20s, si a fost servit in: 3s
+A ajuns la coada la timpul :21s
+Timp: 22s
+Timp: 23s
+Timp: 24s
+Clientul numarul 3 a ajuns la timpul : 24s, si a fost servit in: 2s
+A ajuns la coada la timpul :24s
+Timp: 25s
+Timp: 26s
+Timp: 27s
+Timp: 28s
+Timp: 29s
+Timp: 30s
+Timp: 31s
+Clientul numarul 1 a ajuns la timpul : 31s, si a fost servit in: 2s
+A ajuns la coada la timpul :31s
+Timp: 32s
+Toti clientii au fost procesati.
+Timpul mediu de asteptare :2.5
